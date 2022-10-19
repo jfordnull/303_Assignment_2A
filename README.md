@@ -1,5 +1,5 @@
 # 303_Assignment_2A
-Added try and catch blocks in Source.cpp for error handling user input on the Modify and Append functions.
+Added try and catch blocks in Source.cpp (and one throw inside the Modify function in Implementation.cpp) for error handling user input on the Modify and Append functions.
 
 Examples of user error and catch block feedback:
 
