@@ -17,4 +17,4 @@ Index out of range errors:
 
 ![Output4](https://user-images.githubusercontent.com/90845996/196590170-e8571c46-908f-4746-8f9c-bd65659bc0df.png)
 
-The catch blocks simply describe the error to the user and abort the program.
+The catch blocks simply describe the error to the user and call abort() to end the program
